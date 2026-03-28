@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>galaxy.ico</file>
+    </qresource>
+</RCC>

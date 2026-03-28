@@ -1,0 +1,220 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-9bd7d9ba8baefdb6f988.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						1,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "glad",
+					"jsonFile" : "directory-glad-Debug-d2e737c675770f9138c8.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.0"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 1,
+					"source" : "glad",
+					"targetIndexes" : 
+					[
+						7,
+						8
+					]
+				},
+				{
+					"build" : "OpenGLObjects",
+					"jsonFile" : "directory-OpenGLObjects-Debug-323ee7a330c4554a31ca.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.18"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 2,
+					"source" : "OpenGLObjects",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "tests",
+					"jsonFile" : "directory-tests-Debug-b01f6abb0ab61427ef3b.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 3,
+					"source" : "tests",
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"childIndexes" : 
+					[
+						1,
+						2,
+						3
+					],
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SimulationFramework",
+					"targetIndexes" : 
+					[
+						1,
+						5,
+						6
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						1
+					],
+					"name" : "GLAD",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						7,
+						8
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						2
+					],
+					"name" : "OpenGLObjects",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"directoryIndexes" : 
+					[
+						3
+					],
+					"name" : "SimulationFramework-Tests",
+					"parentIndex" : 0,
+					"targetIndexes" : 
+					[
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "OpenGLObjects::@bcbd9fb385a9f7b1d8d4",
+					"jsonFile" : "target-OpenGLObjects-Debug-726fc7ecbb04a7c905c8.json",
+					"name" : "OpenGLObjects",
+					"projectIndex" : 2
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimulationFramework::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimulationFramework-Debug-af5b879140c6ef247062.json",
+					"name" : "SimulationFramework",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "SimulationFramework-Tests::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-SimulationFramework-Tests-Debug-2a96ba4b02c2cc2e0c00.json",
+					"name" : "SimulationFramework-Tests",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "SimulationFramework-Tests_autogen::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-SimulationFramework-Tests_autogen-Debug-43fd0dd7694c11d905e4.json",
+					"name" : "SimulationFramework-Tests_autogen",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "SimulationFramework-Tests_autogen_timestamp_deps::@a44f0ac069e85531cdee",
+					"jsonFile" : "target-SimulationFramework-Tests_autogen_timestamp_deps-Debug-61b6ca7434c39ce52b66.json",
+					"name" : "SimulationFramework-Tests_autogen_timestamp_deps",
+					"projectIndex" : 3
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimulationFramework_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimulationFramework_autogen-Debug-213e523bedfec56dda37.json",
+					"name" : "SimulationFramework_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SimulationFramework_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SimulationFramework_autogen_timestamp_deps-Debug-e84ab9a9afa187432a19.json",
+					"name" : "SimulationFramework_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "glad::@74ca6b3581f0d7366b1f",
+					"jsonFile" : "target-glad-Debug-8695f38a268c86d203d4.json",
+					"name" : "glad",
+					"projectIndex" : 1
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "glad-generate-files::@74ca6b3581f0d7366b1f",
+					"jsonFile" : "target-glad-generate-files-Debug-26731c4e80c2e4624ed7.json",
+					"name" : "glad-generate-files",
+					"projectIndex" : 1
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug",
+		"source" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

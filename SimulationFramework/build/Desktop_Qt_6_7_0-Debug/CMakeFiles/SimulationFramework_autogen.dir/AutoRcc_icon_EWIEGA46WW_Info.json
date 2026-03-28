@@ -1,0 +1,19 @@
+{
+	"BUILD_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/SimulationFramework_autogen",
+	"CMAKE_BINARY_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework",
+	"CMAKE_SOURCE_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework",
+	"INCLUDE_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/SimulationFramework_autogen/include",
+	"INPUTS" : [ "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/galaxy.ico" ],
+	"LOCK_FILE" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/SimulationFramework_autogen.dir/AutoRcc_icon_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "icon" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_icon.cpp",
+	"RCC_EXECUTABLE" : "/home/war/Qt/6.7.0/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/SimulationFramework_autogen.dir/AutoRcc_icon_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/icon.qrc",
+	"VERBOSITY" : 0
+}

@@ -1,0 +1,29 @@
+{
+	"BUILD_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/SimulationFramework_autogen",
+	"CMAKE_BINARY_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug",
+	"CMAKE_CURRENT_BINARY_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug",
+	"CMAKE_CURRENT_SOURCE_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework",
+	"CMAKE_SOURCE_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework",
+	"INCLUDE_DIR" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/SimulationFramework_autogen/include",
+	"INPUTS" : 
+	[
+		"/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures/stars_ny.jpg",
+		"/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures/moon_color.jpg",
+		"/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures/stars_nz.jpg",
+		"/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures/stars_pz.jpg",
+		"/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures/stars_px.jpg",
+		"/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures/stars_nx.jpg",
+		"/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures/stars_py.jpg",
+		"/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures/earth_color.jpg"
+	],
+	"LOCK_FILE" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/SimulationFramework_autogen.dir/AutoRcc_textures_EWIEGA46WW_Lock.lock",
+	"MULTI_CONFIG" : false,
+	"OPTIONS" : [ "-name", "textures" ],
+	"OUTPUT_CHECKSUM" : "EWIEGA46WW",
+	"OUTPUT_NAME" : "qrc_textures.cpp",
+	"RCC_EXECUTABLE" : "/home/warOS/Qt/6.7.0/gcc_64/./libexec/rcc",
+	"RCC_LIST_OPTIONS" : [ "--list" ],
+	"SETTINGS_FILE" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/CMakeFiles/SimulationFramework_autogen.dir/AutoRcc_textures_EWIEGA46WW_Used.txt",
+	"SOURCE" : "/home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/textures.qrc",
+	"VERBOSITY" : 0
+}

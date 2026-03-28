@@ -1,0 +1,2 @@
+set(__QT_DEPLOY_TARGET_SimulationFramework-Tests_FILE /home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/tests/SimulationFramework-Tests)
+set(__QT_DEPLOY_TARGET_SimulationFramework_FILE /home/warOS/prog/PhysicSim/Frameworklib/SimulationFramework/build/Desktop_Qt_6_7_0-Debug/SimulationFramework)
